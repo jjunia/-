@@ -11,7 +11,7 @@
 
 ## 用例图
 
-![用例图](./public/Use_Case_Diagram.jpg)
+![用例图](./public/Use_Case_Diagram.png)
 
 ## 技术栈 Stack
 
@@ -28,4 +28,4 @@
 - Sequelize
 
 ### 数据库 Data-base
-- MysSQL
+- MySQL
